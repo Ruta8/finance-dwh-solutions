@@ -1,0 +1,7 @@
+version: 2
+
+models:
+  - name: stg_sales
+    description: "Staging model for sales data"
+    tests:
+      - order_qty_positive

@@ -1,0 +1,10 @@
+version: 2
+
+sources:
+  - name: finance-dwh-gc
+    database: finance-dwh-gc
+    schema: stg_sales
+    tables:
+      - name: sales
+        description: >
+          Contains records of sales transactions, including information on the products sold, quantities, and associated persons and addresses.

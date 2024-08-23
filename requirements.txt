@@ -1,0 +1,20 @@
+# Database and BigQuery
+sqlalchemy
+google-cloud-bigquery
+pandas-gbq
+
+# Data Manipulation and Analysis
+pandas
+numpy
+
+# Data Visualization
+matplotlib
+seaborn
+
+# DBT (if you choose to use it)
+dbt-core
+dbt-bigquery
+
+# Others
+requests  # For API calls, if needed
+jupyterlab  # For running Jupyter notebooks (optional)
