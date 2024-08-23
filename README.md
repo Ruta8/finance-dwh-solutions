@@ -1,1 +1,1 @@
-# vinted_task
+# Finance DWH solutions
